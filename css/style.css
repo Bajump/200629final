@@ -1,0 +1,35 @@
+html{font-family: 'Noto Sans KR', sans-serif; background: #1C1D1D; word-break: keep-all; color: white; scroll-behavior: smooth; }
+		body, h1, h2, p, div, ul, li, a{margin:0 ; padding: 0; }
+		img{width: 100%; }
+		img{width: 100%; }
+		a{color: white; }
+		li ul{margin:0 ; padding: 0; }
+		nav ul{width: 100%; background: none;
+			height: 44px; margin: auto; }
+		nav ul li{background: none; list-style-type: none; width: 14.285714%; 
+			float: left; height: 44px; text-align: center; line-height: 44px; }
+		nav ul li a{display: block; color: #E2E2E2; text-decoration: none; 
+					font-size: 1.2em; font-weight: bold; }
+		nav a:hover{color: gray; transition: all 0.5s;}
+		#h:hover{transition: all 0.3s; }
+		#hh{opacity: 0; }
+		#hhhh{opacity: 1; }
+		#h:hover #hh{opacity: 1; transition: 0.3s; }
+		#h:hover #hhhh{opacity: 20%; transition: 0.3s; }
+		.row{width: 1200px; margin: auto; }
+		.bf-red{background: red; }
+		.font-main{font-size: 3em; font-weight: 700; color: white; }
+		.font-sub{font-size: 2em; font-weight: 500; color: white; }
+		.font-basic{font-size: 2em; color: white; }
+		.font-small{font-size: 0.7em; color: white; }
+		.font-normal{font-size: 1.3em; color: white; }
+		.font-big{font-size: 6em; font-weight: 900; color: white; }
+		.col-25{width: 25%; margin: 0px 10px; }
+		.col-50{width: 50%; margin: 0px 10px; }
+		.col-50n{width: 50%; }
+		.col-75{width: 75%; margin: 0px 10px; }
+		.col-85{width: 85%; margin: 0px 10px; }
+		.col-15{width: 15%; margin: 0px 10px; }
+		.col-30{width: 30%; margin: 0px 10px; }
+		.col-70{width: 70%; margin: 0px 10px; }
+		.fixed{position: fixed; width: 100% ; top: 0px; z-index: 9999; }
